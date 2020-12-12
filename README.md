@@ -45,48 +45,47 @@ Note: For TA this README will be in the code submission so downloading code from
 
 11. Next we will select import account which will open below figure dialog. And here we need to paste the private key of the address we want to connect to the private network.
 
-![](ss/connect3.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect3.png" width="350" height="600">
 
 12. We can get that private key from Ganache application. Open the running Ganache window and select the key icon on the right and we can pick any address we want. Here we are going to select key icon for top most address (0x74b4…).
 
-![](ss/connect4.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect4.png" width="600" height="400">
 
 13. Once we click on key icon it will open dialog box given in below figure just copy that private key. (Here to avoid any misuse I have hidden the private key).
 
-![](ss/connect5.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect5.png" width="500" height="300">
 
 14. Once we copy the key, paste that in dialog box opened in step 11. And click import. We can see in below figure after successful import our Ganache address(0x74b4..) is now available here.
 
-![](ss/connect6.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect6.png" width="350" height="600">
 
 15.  We can see that not connected text on top left corner it means our running localhost website is not connected with this account. For that click on three dot icon next to Account 6 and select Connected sites which will ask to Manually connect to current site. 
 
-![](ss/connect7.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect7.png" width="350" height="600">
 
-![](ss/connect8.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect8.png" width="350" height="600">
 
 16. Then it will ask to select manually which account to connect make sure account we imported is selected. Then press next and finally click confirm.
 
-![](ss/connect9.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect9.png" width="350" height="600">
 
-![](ss/connect10.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect10.png" width="350" height="600">
 
 17. Next we can see now it shows Connected.
 
-![](ss/connect11.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect11.png" width="350" height="600">
 
 18. Now all setup is completed finally and we can test our application. Now make sure you see figure similar to one in step 6. Here click on adopt button on any pet you want to adopt. And once we click on that it will open a popup asking for the transaction confirmation just like below figure.
 
-![](ss/connect12.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect12.png" width="350" height="600">
 
 19. And once we confirm the transaction that pet you clicked is adopted by you and the adopt button is no longer available for that pet and it is replaced by success button.
 
-![](ss/connect13.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect13.png" width="400" height="500">
 
 ##### Or you can see the youtube demo of how to execute the project:
 
 <a href="https://www.youtube.com/watch?v=UY-DFtYRFgM&feature=youtu.be" target="_blank"><img src="ss/thumbnail.png" alt="IMAGE ALT TEXT HERE" width="800" height="500" border="10" /></a>
-
 ___
 
 ## References:
