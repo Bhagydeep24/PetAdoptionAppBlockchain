@@ -15,21 +15,19 @@ Note: For TA this README will be in the code submission so downloading code from
 
 4. Next step we need to check if the Ganache connection details with the project is set properly. For that we have <b>truffle-config.js</b> file in the project and we just need to confirm. And those host and port is available Ganache application on top. Both code and details in Ganache would look something like below:
 
-![](ss/truffle-config.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/truffle-config.png" width="400" height="350">
+
+![](ss/connection_details.png)
 
 5. Once connection is confirmed then we will execute 2 CLI commands <b>truffle compile</b> and then <b>truffle migrate</b>. (if there is no truffle installed you can install by CLI command <b>npm install -g truffle@5.0.2</b>)
-
-![](ss/truffle-config.png)
 
 6. Once both the commands are executed without any error we will run the project using CLI command <b>npm run dev</b> which open our project in browser and it will look something like below
 
 ![](ss/thumbnail.png)
 
-![](ss/connection_details.png)
-
 7.  Next we will need Metamask extension install on our browser for the transaction. And after we are logged in our Metamask account we need to set up private network. So click on network dropdown button on top right and select <b>custom RPC</b>. This whole process will look like below figure on browser extension.
 
-![](ss/customRPC.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/customRPC.png" width="600" height="500">
 
 8. Once we click on custom RPC we will need to fill in details. Below 2 figures are before filling details and after filling those details.
 
