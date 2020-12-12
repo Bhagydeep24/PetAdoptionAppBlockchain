@@ -31,17 +31,17 @@ Note: For TA this README will be in the code submission so downloading code from
 
 8. Once we click on custom RPC we will need to fill in details. Below 2 figures are before filling details and after filling those details.
 
-![](ss/before_details.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/before_details.png" width="600" height="500">
 
-![](ss/after_details.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/after_details.png" width="400" height="500">
 
 9. Now our private network is set. And it will look something like figure below when we click on Metamask extension icon. Make sure private network is selected.
 
-![](ss/connect1.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect1.png" width="600" height="500">
 
 10. Next step, we need to import address from running Ganache application to this private network. For that click on circle icon next to private network written drop down on right top. Which will look like below figure.
 
-![](ss/connect2.png)
+<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect2.png" width="350" height="600">
 
 11. Next we will select import account which will open below figure dialog. And here we need to paste the private key of the address we want to connect to the private network.
 
