@@ -15,9 +15,17 @@ Note: For TA this README will be in the code submission so downloading code from
 
 4. Next step we need to check if the Ganache connection details with the project is set properly. For that we have <b>truffle-config.js</b> file in the project and we just need to confirm. And those host and port is available Ganache application on top. Both code and details in Ganache would look something like below:
 
-<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/truffle-config.png" width="400" height="350">
-
-![](ss/connection_details.png)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/truffle-config.png" width="400" height="350">
+    </td>
+    <td></td>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connection_details.png">
+    </td>
+  </tr>
+</table>
 
 5. Once connection is confirmed then we will execute 2 CLI commands <b>truffle compile</b> and then <b>truffle migrate</b>. (if there is no truffle installed you can install by CLI command <b>npm install -g truffle@5.0.2</b>)
 
