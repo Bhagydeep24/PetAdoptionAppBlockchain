@@ -83,7 +83,7 @@ Note: For TA this README will be in the code submission so downloading code from
 
 <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect13.png" width="400" height="500">
 
-##### Or you can see the youtube demo of how to execute the project:
+##### Or you can see the youtube demo of how to execute the project:(Click on the image below for the video)
 
 <a href="https://www.youtube.com/watch?v=UY-DFtYRFgM&feature=youtu.be" target="_blank"><img src="ss/thumbnail.png" alt="IMAGE ALT TEXT HERE" width="800" height="500" border="10" /></a>
 ___
