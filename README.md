@@ -6,7 +6,7 @@
 
 1. Download/clone the project.
 2. Execute <b>npm intstall</b> CLI command (make sure node is installed and working). It will install all the required node modules
-3. Download [Ganache https]://www.trufflesuite.com/ganache and start the applications running.
+3. Download [Ganache]: https://www.trufflesuite.com/ganache and start the applications running.
 
 4. Execute <b>truffle migrate</b> CLI command. It will deploy the contract.
 4. Finally the run the project by running CLI command <b>npm run dev</b>.
