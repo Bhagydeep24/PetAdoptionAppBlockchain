@@ -39,9 +39,17 @@ Note: For TA this README will be in the code submission so downloading code from
 
 8. Once we click on custom RPC we will need to fill in details. Below 2 figures are before filling details and after filling those details.
 
-<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/before_details.png" width="600" height="500">
-
-<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/after_details.png" width="400" height="500">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/before_details.png" width="600" height="500">
+    </td>
+    <td></td>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/after_details.png" width="400" height="500">
+    </td>
+  </tr>
+</table>
 
 9. Now our private network is set. And it will look something like figure below when we click on Metamask extension icon. Make sure private network is selected.
 
@@ -69,15 +77,31 @@ Note: For TA this README will be in the code submission so downloading code from
 
 15.  We can see that not connected text on top left corner it means our running localhost website is not connected with this account. For that click on three dot icon next to Account 6 and select Connected sites which will ask to Manually connect to current site. 
 
-<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect7.png" width="350" height="600">
-
-<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect8.png" width="350" height="600">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect7.png" width="350" height="600">
+    </td>
+    <td></td>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect8.png" width="350" height="600">
+    </td>
+  </tr>
+</table>
 
 16. Then it will ask to select manually which account to connect make sure account we imported is selected. Then press next and finally click confirm.
 
-<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect9.png" width="350" height="600">
-
-<img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect10.png" width="350" height="600">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect9.png" width="350" height="600">
+    </td>
+    <td></td>
+    <td>
+      <img src="https://github.com/Bhagydeep24/PetAdoptionAppBlockchain/blob/master/ss/connect10.png" width="350" height="600">
+    </td>
+  </tr>
+</table>
 
 17. Next we can see now it shows Connected.
 
